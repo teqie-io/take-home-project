@@ -8,23 +8,23 @@
 ## Tasks
 You can choose to do either the Front-end or Back-end tasks.
 
-### Front-end
+1. Front-end
 - Implement the UI and its functionalities.
-- Data can be stored in memory or local storage.
+- Data can be stored in memory or local storage.  
 
-**UI Mockups**
+2. Back-end
+- Implement REST APIs for each functionality.
+- Store data in a relational database.
+
+### Wireframes: 
 - [Home Page](images/home_page.svg)
 - [New Poll Page](images/new_poll_page.svg)
 - [Result Page](images/result_page.svg)
-
-### Back-end
-- Implement REST APIs for each functionality.
-- Store data in a relational database.
 
 ## Bonus Tasks
 - Use Docker Compose to containerize the application.
 - Implement unit tests to have more than 80% code coverage.
 - Store data using a cloud service like AWS, GCP, Azure, etc.
 
-## How To Submit
+## D. How To Submit
 Upload your solution to a public git repository and share it with us.
