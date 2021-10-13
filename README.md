@@ -14,11 +14,11 @@
 You can choose to implement either the Front-end or Back-end of the application.
 
 ### Front-end
-- Implement the application using any framework like React, Vue.js, Angular, etc.
+- Implement the UI and its functionalities.
 - Data can be stored in memory or local storage.
 
 ### Back-end
-- Implement REST APIs for each functionality using Express, Strapi, etc.
+- Implement REST APIs for each functionality.
 - Store data in a relational database.
 
 ## Advanced Requirements (Optional)
