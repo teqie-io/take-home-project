@@ -1,7 +1,7 @@
-# Simple Poll App
+# Public Poll App
 
 ## User Stories
-- Users can create a poll with a multiple-choice question.
+- Users can create a public poll with a multiple-choice question.
 - Users can see a list of polls on the homepage and vote on them. But they can’t see the result.
 - Users can vote on a poll multiple times.
 - Users can click on any poll listed on the homepage to see the result.
