@@ -6,9 +6,9 @@
 - Users can click on the polls listed on the homepage to see the result.
 
 ## UI Mockups
-![Image of A Page](home_page.svg)
-![Image of A Page](new_poll_page.svg)
-![Image of A Page](result_page.svg)
+![Image of Home Page](home_page.svg)
+![Image of New Poll Page](new_poll_page.svg)
+![Image of Result Page](result_page.svg)
 
 ## Basic Requirements
 You can choose to implement either the Front-end or Back-end of the application.
