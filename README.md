@@ -3,7 +3,8 @@
 ## User Stories
 - Users can create a poll with a multiple-choice question.
 - Users can see a list of polls on the homepage and vote on them. But they can’t see the result.
-- Users can click on the polls listed on the homepage to see the result.
+- Users can vote on a poll multiple times.
+- Users can click on any poll listed on the homepage to see the result.
 
 ## Tasks
 You can choose to do either the Front-end or Back-end tasks.
