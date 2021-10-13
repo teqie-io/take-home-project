@@ -11,6 +11,7 @@ You can choose to do either the Front-end or Back-end tasks.
 ### Front-end
 - Implement the UI and its functionalities.
 - Data can be stored in memory or local storage.
+
 **UI Mockups**
 - [Home Page](images/home_page.svg)
 - [New Poll Page](images/new_poll_page.svg)
