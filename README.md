@@ -10,8 +10,8 @@
 ![Image of New Poll Page](images/new_poll_page.svg)
 ![Image of Result Page](images/result_page.svg)
 
-## Basic Requirements
-You can choose to implement either the Front-end or Back-end of the application.
+## Tasks
+You can choose to do either the Front-end or Back-end tasks.
 
 ### Front-end
 - Implement the UI and its functionalities.
@@ -21,7 +21,7 @@ You can choose to implement either the Front-end or Back-end of the application.
 - Implement REST APIs for each functionality.
 - Store data in a relational database.
 
-## Advanced Requirements (Optional)
+## Bonus Tasks
 - Use Docker Compose to containerize the application.
 - Implement unit tests to have more than 80% code coverage.
 - Store data using a cloud service like AWS, GCP, Azure, etc.
