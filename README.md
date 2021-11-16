@@ -26,7 +26,7 @@ You can choose to do either the Front-end or Back-end tasks.
 ## Bonus Tasks
 - Use Docker Compose to containerize the application.
 - Implement unit tests to have more than 80% code coverage.
-- Store data using a cloud service like AWS, GCP, Azure, etc.
+- Integrate with a cloud service like AWS, GCP, Azure, etc.
 
 ## How To Submit
 Upload your solution to a public git repository and share it with us.
